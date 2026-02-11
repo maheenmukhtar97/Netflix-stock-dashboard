@@ -1,0 +1,19 @@
+Congif.toml
+[theme]
+base = "dark"
+
+# Colors
+textColor = "#e2e8f0"
+primaryColor = "#615fff"
+backgroundColor = "#1d293d"
+secondaryBackgroundColor = "#0f172b"
+
+# Widgets
+showWidgetBorder = true
+borderColor = "#314158"
+
+# Dataframes
+dataframeHeaderBackgroundColor = "#1d293d"
+
+# Fonts
+font = "sans serif"
